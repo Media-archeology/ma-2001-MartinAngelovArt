@@ -1,0 +1,20 @@
+
+#Creators:
+Ahafiia Plekan & Martin Angelov
+
+##Title of Project: 
+[TITLE PLACEHOLDER]
+
+##Apparatus: 
+AMIGA 500
+
+##Emulator version and coding language: 
+FS UAE  3.2.35, Workbench AMOS 
+
+###Description of project: 
+-
+
+###Process:
+
+
+
